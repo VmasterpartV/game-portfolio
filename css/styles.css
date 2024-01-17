@@ -203,6 +203,10 @@ header {
     height: 1px;
 }
 
+.tools2 {
+    display: none !important;
+}
+
 .parallax-data {
     padding: 100px 0px;
     display: flex;
@@ -318,6 +322,9 @@ header {
 
 .project-buttons {
     margin-top: 30px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
 }
 
 .project a {
