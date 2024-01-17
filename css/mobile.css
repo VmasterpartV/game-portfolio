@@ -17,7 +17,7 @@
 
     .personal-data {
         text-align: center;
-        top: 50%;
+        top: 40%;
         left: 50%;
         transform: translate(-50%, -50%);
     }
@@ -36,11 +36,6 @@
 
     .engines {
         justify-content: center;
-    }
-
-    .parallax-section {
-        margin-top: 91vh;
-        width: 100%;
     }
 
     .hero-img {
@@ -140,11 +135,6 @@
 
     .engines {
         justify-content: center;
-    }
-
-    .parallax-section {
-        margin-top: 91vh;
-        width: 100%;
     }
 
     .hero-img {
