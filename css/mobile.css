@@ -3,6 +3,7 @@
 
     header .container {
         padding: 5px 20px;
+        flex-direction: column;
     }
 
     nav {
@@ -105,9 +106,11 @@
 @media only screen and (min-width: 481px) and (max-width: 768px) {
     header .container {
         padding: 5px 20px;
+        padding-bottom: 15px;
+        flex-direction: column;
     }
 
-    nav {
+    #contactbtn {
         display: none;
     }
 
